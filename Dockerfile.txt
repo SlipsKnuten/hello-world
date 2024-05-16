@@ -1,5 +1,0 @@
-FROM ubuntu
-WORKDIR C:\Users\gurra\Desktop\Test project
-COPY index.html .
-EXPOSE 8080
-CMD ["html","index.html"]
